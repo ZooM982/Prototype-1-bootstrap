@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.section0{
+	color: white;
+}
+.text{
+	background: linear-gradient(to right, #0E6655, #138D75 );
+}
+.div2{
+	background-color: #138D75 ;
+	color: white;
+}
+
+.div3 .card{
+	border: 1px solid #138D75 ;
+}
+.div4 .card{
+	border: 1px solid palegreen;
+
+}
+.div5 .card{
+	border: 1px solid palegreen;
+}
+.div6 .card{
+	border: 1px solid palegreen;
+}
+
+.div7 .card{
+	border: 2px solid #138D75 ;
+
+}
+.section3{
+	background-color: #E74C3C ;
+	color: white;
+	font-size: 15px;
+}
+.section5{
+	background-color: #E74C3C;
+	color: white;
+}
+.div8{
+	background-color: #E8F8F5;
+}
+footer{
+	background-color: #138D75 ;
+}
