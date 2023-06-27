@@ -1,4 +1,4 @@
-*{
+body{
 	margin: 0;
 	padding: 0;
 }
@@ -22,17 +22,6 @@
 .div3 {
 	border: 1px solid #138D75 ;
 }
-.div4 .card{
-	border: 1px solid palegreen;
-
-}
-.div5 .card{
-	border: 1px solid palegreen;
-}
-.div6 .card{
-	border: 1px solid palegreen;
-}
-
 .div7 .card{
 	border: 2px solid #138D75 ;
 
@@ -50,5 +39,14 @@
 	background-color: #E8F8F5;
 }
 footer{
-	background-color: #138D75 ;
+	background-color: #138D75;
+	color: white;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+}
+.fa-brands{
+	font-size: 20px;
+	margin-left: 10px;
 }
